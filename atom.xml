@@ -1,24 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-09-20T19:19:11-03:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[William Oliveira]]></title>
+  <link href="http://gnuwilliam.github.io/atom.xml" rel="self"/>
+  <link href="http://gnuwilliam.github.io/"/>
+  <updated>2013-09-20T19:42:50-03:00</updated>
+  <id>http://gnuwilliam.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[William Oliveira]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Teste]]></title>
-    <link href="http://yoursite.com/blog/2013/09/20/teste/"/>
-    <updated>2013-09-20T19:18:00-03:00</updated>
-    <id>http://yoursite.com/blog/2013/09/20/teste</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Migrando para o Octopress]]></title>
+    <link href="http://gnuwilliam.github.io/blog/2013/09/20/migrando-para-o-octopress/"/>
+    <updated>2013-09-20T19:38:00-03:00</updated>
+    <id>http://gnuwilliam.github.io/blog/2013/09/20/migrando-para-o-octopress</id>
+    <content type="html"><![CDATA[<p>Hoje comecei a utilizar o <a href="http://octopress.org">Octopress</a>, e estou gostando muito!</p>
+
+<p>Se você gostou, e se interessou, recomendo seguir a documentação pra publicar uma página sua no gh-pages.</p>
+
+<p>Segue o link <a href="http://octopress.org/docs/deploying/github/">Deploying to Github Pages</a>.</p>
+
+<p>Estarei postando sobre JavaScript, Node.JS, Ember, Angular, NoSQL, Python, e qualquer outra coisa que me vier na cabeça.</p>
+
+<p>Espero que gostem! Um abraço. :&ndash;)</p>
 ]]></content>
   </entry>
   
