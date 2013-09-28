@@ -4,7 +4,7 @@
   <title><![CDATA[William Oliveira]]></title>
   <link href="http://gnuwilliam.github.io/atom.xml" rel="self"/>
   <link href="http://gnuwilliam.github.io/"/>
-  <updated>2013-09-28T18:28:07-03:00</updated>
+  <updated>2013-09-28T18:34:09-03:00</updated>
   <id>http://gnuwilliam.github.io/</id>
   <author>
     <name><![CDATA[William Oliveira]]></name>
@@ -14,13 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Simple RESTFul API using Express Node.js framework]]></title>
-    <link href="http://gnuwilliam.github.io/blog/2013/09/28/simple-restful-api-using-express-node-dot-js-framework/"/>
+    <title type="html"><![CDATA[Simple REST API using Express Node.js framework]]></title>
+    <link href="http://gnuwilliam.github.io/blog/2013/09/28/simple-rest-api-using-express-node-dot-js-framework/"/>
     <updated>2013-09-28T16:58:00-03:00</updated>
-    <id>http://gnuwilliam.github.io/blog/2013/09/28/simple-restful-api-using-express-node-dot-js-framework</id>
+    <id>http://gnuwilliam.github.io/blog/2013/09/28/simple-rest-api-using-express-node-dot-js-framework</id>
     <content type="html"><![CDATA[<p>Hello, folks!</p>
 
-<p>Recently I&rsquo;ve been working a lot with <strong>Node.js</strong>, specifically with <strong>Express</strong>, so I decided to write this blogpost to help anyone who wants to start out using it, and show how to implement a basic <strong>RESTFul API</strong> using the platform.</p>
+<p>Recently I&rsquo;ve been working a lot with <strong>Node.js</strong>, specifically with <strong>Express</strong>, so I decided to write this blogpost to help anyone who wants to start out using it, and show how to implement a basic <strong>REST API</strong> using the platform.</p>
 
 <p>I&rsquo;m gonna list what you&rsquo;ll need to follow up this article:</p>
 
@@ -92,7 +92,7 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>The <strong>RESTFul API</strong> will look like this at the end:</p>
+<p>The <strong>REST API</strong> will look like this at the end:</p>
 
 <figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -318,7 +318,7 @@
 </span></code></pre></td></tr></table></div></figure>
 
 
-<p>Well done! Here&rsquo;s our simple <strong>RESTFul</strong> API example.</p>
+<p>Well done! Here&rsquo;s our simple <strong>REST</strong> API example.</p>
 
 <p>You can now insert some data, list, update, delete&hellip;</p>
 
