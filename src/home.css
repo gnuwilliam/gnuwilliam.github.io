@@ -1,0 +1,11 @@
+.social {
+  display: flex;
+  gap: 10px;
+  font-weight: 300;
+}
+
+.social a {
+  width: 30px !important;
+  height: 30px !important;
+  margin-right: 8px;
+}
